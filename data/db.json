@@ -1,0 +1,127 @@
+{
+  "iems": [
+    {
+      "id": 1,
+      "name": "Moondrop Chu II",
+      "sound": "balanced",
+      "description": "Balanced tuning with good detail.",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "name": "Truthear Zero",
+      "sound": "bass",
+      "description": "Powerful bass with clarity.",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "name": "7Hz Salnotes Zero",
+      "sound": "detail",
+      "description": "Clean and natural sound.",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "name": "KZ EDX Pro",
+      "sound": "bass",
+      "description": "Budget bass-forward IEM with punchy low end.",
+      "price": 800
+    },
+    {
+      "id": 5,
+      "name": "Tanchjim Tanya",
+      "sound": "detail",
+      "description": "Bright, airy signature with crisp treble detail.",
+      "price": 2200
+    },
+    {
+      "id": 6,
+      "name": "Simgot EA500",
+      "sound": "balanced",
+      "description": "Neutral-ish tuning that works well across genres.",
+      "price": 1800
+    }
+  ],
+  "profile": {
+    "name": "User",
+    "preferredSound": "bass",
+    "favoriteGenre": "Music",
+    "eqProfile": {
+      "bassGain": -4.1,
+      "trebleGain": 0.4,
+      "presenceGain": -5.6
+    }
+  },
+  "settings": {
+    "notifications": false,
+    "darkMode": false,
+    "autoPlay": false
+  },
+  "testHistory": [
+    {
+      "sound": "balanced",
+      "takenAt": "2026-07-26T03:59:50.946Z"
+    },
+    {
+      "sound": "detail",
+      "takenAt": "2026-07-26T04:00:12.015Z"
+    },
+    {
+      "sound": "balanced",
+      "takenAt": "2026-07-26T04:00:13.857Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-26T04:00:15.072Z"
+    },
+    {
+      "sound": "detail",
+      "takenAt": "2026-07-26T04:00:16.209Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-28T08:31:22.477Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-30T17:00:41.713Z"
+    },
+    {
+      "sound": "balanced",
+      "takenAt": "2026-07-30T17:00:43.231Z"
+    },
+    {
+      "sound": "detail",
+      "takenAt": "2026-07-30T17:00:43.734Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-30T17:00:46.299Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-31T00:00:22.486Z"
+    },
+    {
+      "sound": "balanced",
+      "takenAt": "2026-07-31T00:00:28.065Z"
+    },
+    {
+      "sound": "detail",
+      "takenAt": "2026-07-31T00:00:28.868Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-31T00:05:26.078Z"
+    },
+    {
+      "sound": "balanced",
+      "takenAt": "2026-07-31T00:06:27.336Z"
+    },
+    {
+      "sound": "bass",
+      "takenAt": "2026-07-31T02:02:07.337Z"
+    }
+  ]
+}
