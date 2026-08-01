@@ -48,8 +48,8 @@
     "preferredSound": "bass",
     "favoriteGenre": "Music",
     "eqProfile": {
-      "bassGain": -4.1,
-      "trebleGain": 0.4,
+      "bassGain": -5.6,
+      "trebleGain": -5.6,
       "presenceGain": -5.6
     }
   },
