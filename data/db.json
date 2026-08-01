@@ -46,7 +46,12 @@
   "profile": {
     "name": "User",
     "preferredSound": "bass",
-    "favoriteGenre": "Music"
+    "favoriteGenre": "Music",
+    "eqProfile": {
+      "bassGain": -4.1,
+      "trebleGain": 0.4,
+      "presenceGain": -5.6
+    }
   },
   "settings": {
     "notifications": false,

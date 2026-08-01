@@ -7,8 +7,12 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.4.2",
     "express": "^4.19.2",
+    "express-session": "^1.19.0",
     "js-yaml": "^5.2.3",
+    "mysql2": "^3.23.2",
     "ws": "^8.21.1"
   }
 }
