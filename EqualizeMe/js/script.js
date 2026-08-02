@@ -1,4 +1,4 @@
-// ===== dark node =====
+// ===== Dark Mode =====
 (function () {
   const html = document.documentElement;
 

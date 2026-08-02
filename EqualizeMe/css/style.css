@@ -1,5 +1,5 @@
 /* =====================
-   THEME 
+   THEME VARIABLES
 ===================== */
 
 :root {
@@ -47,7 +47,7 @@ body {
 
 
 /* =====================
-   DARK MODE TOGGLER
+   DARK MODE TOGGLE BUTTON
 ===================== */
 
 .theme-toggle {
